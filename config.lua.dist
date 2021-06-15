@@ -48,7 +48,7 @@ clientVersionStr = "12.64"
 
 -- Depot Limit
 freeDepotLimit = 2000
-premiumDepotLimit = 10000
+premiumDepotLimit = 15000
 depotBoxes = 18
 
 -- GameStore
